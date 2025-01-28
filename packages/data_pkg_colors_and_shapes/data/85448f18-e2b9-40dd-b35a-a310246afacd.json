@@ -1,0 +1,408 @@
+{
+  "labels": [
+    "COLOR",
+    "SHAPE"
+  ],
+  "tokens": [
+    {
+      "text": "Dear",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "Jordan",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ",",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "The",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "sky",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "today",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "was",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "a",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "mesmerizing",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "shade",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "of",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "purple",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "during",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "twilight",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ",",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "which",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "was",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "absolutely",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "breathtaking",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ".",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "I",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "saw",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "a",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "child",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "'s",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "balloon",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "floating",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "away",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ",",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "its",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "perfect",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "oval",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "shape",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "standing",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "out",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "against",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "the",
+      "whitespace": true,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "clouds",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ".",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "Warmly",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": ",",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "Alex",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    },
+    {
+      "text": "\n\n",
+      "whitespace": false,
+      "tag": {
+        "position": "OUTSIDE",
+        "label": null
+      }
+    }
+  ]
+}

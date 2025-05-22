@@ -1,0 +1,493 @@
+{
+    "projects": [
+        {
+            "id": "3cbb9067-29b7-42a7-aced-293cefafd5c4",
+            "title": "Colors and shapes multi-page",
+            "subtitle": "Alex vs Jordan",
+            "description": "An example project with letters about colors and shapes",
+            "max_history_length": 3,
+            "is_data_complete": true,
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        }
+    ],
+    "tasks": [
+        {
+            "id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "project_id": "3cbb9067-29b7-42a7-aced-293cefafd5c4",
+            "name": "Colors and shapes",
+            "status": "New",
+            "order": 1,
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001",
+            "is_data_complete": true
+        }
+    ],
+    "items": [
+        {
+            "id": "078f6b40-afaa-46a0-9a2c-1cc984829a75",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Silver arrow",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "36017d8c-ee8d-4f8b-973f-f32980d5f4ef",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Shapes",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "f43c1e46-d68e-48d3-8c14-c89a980b16a5",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Shape",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "419740c3-3852-41cc-a48e-779688206c6f",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Shapes(1)",
+            "parent_id": "36017d8c-ee8d-4f8b-973f-f32980d5f4ef",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "265747ec-2737-45ca-8377-a8c021559e91",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Shapes(2)",
+            "parent_id": "36017d8c-ee8d-4f8b-973f-f32980d5f4ef",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Silver arrow (1)",
+            "parent_id": "078f6b40-afaa-46a0-9a2c-1cc984829a75",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Silver arrow (2)",
+            "parent_id": "078f6b40-afaa-46a0-9a2c-1cc984829a75",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "2498d4c9-9900-41a4-b050-d244885c3dab",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Blue triangle (3)",
+            "parent_id": "078f6b40-afaa-46a0-9a2c-1cc984829a75",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "db27effc-0bda-4add-95bf-95c6322e596a",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Green square (4)",
+            "parent_id": "078f6b40-afaa-46a0-9a2c-1cc984829a75",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "60c81e54-dff7-4237-b829-fc242a02b033",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Pink star (5)",
+            "parent_id": "419740c3-3852-41cc-a48e-779688206c6f",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Purple oval (6)",
+            "parent_id": "419740c3-3852-41cc-a48e-779688206c6f",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Red circle (7)",
+            "parent_id": "265747ec-2737-45ca-8377-a8c021559e91",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Turquoise diamond (8)",
+            "parent_id": "265747ec-2737-45ca-8377-a8c021559e91",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        },
+        {
+            "id": "db058dca-aad7-47f8-9bc9-432cab176a63",
+            "task_id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
+            "name": "Yellow hexagon (9)",
+            "parent_id": "f43c1e46-d68e-48d3-8c14-c89a980b16a5",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        }
+    ],
+    "data": [
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
+            "file_id": "34eda65f-1276-4095-bde9-9325e80ad2ee"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
+            "file_id": "169fc0e8-e2c6-48d9-8899-36995d12db55"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
+            "file_id": "e13417a4-524c-4a9d-9b22-ba11f4f4dd66"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
+            "file_id": "28605dba-569d-4aee-90ae-1102c29bc323"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
+            "file_id": "6d97e50c-7561-48d2-98ab-699017da82a3"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
+            "file_id": "9374f3fe-e961-4e27-8333-40b87fb9b1bc"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
+            "file_id": "32d440f0-3884-479b-850c-ac3e5dcc015e"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
+            "file_id": "0288e6c2-98a3-4b85-ac5d-8db091df65ce"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
+            "file_id": "ec7cf993-74d2-40b9-b070-c7774829bd48"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
+            "file_id": "1297e7f5-abd5-4467-9c2e-8e56ae552c92"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
+            "file_id": "2982efc1-d654-489e-8d1a-6da01b1c56db"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
+            "file_id": "0b6b500c-4e3d-481e-8c6e-880ac244ec81"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
+            "file_id": "cceaf9cf-0569-4f1d-9ab6-28cd55f8dd63"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
+            "file_id": "cf8e0c53-92d8-4ba4-9894-f60ce5b3a8dd"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
+            "file_id": "12bce200-7a7f-42a1-9adf-05ad4282bc69"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
+            "file_id": "9997f5a2-2bc1-4dee-aea7-890f9250f5f9"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
+            "file_id": "f17c9a1e-3fd5-46c3-9790-c35d1baf5d65"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
+            "file_id": "dc728dd6-2242-4c8b-b89f-00a828dc195e"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
+            "file_id": "0332afcc-3ef5-4945-8bf8-3474e29cef09"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
+            "file_id": "8b3dfb6c-c351-4b27-bc50-01908fad34cc"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
+            "file_id": "b268afd8-f83f-415f-becb-d743593809a6"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
+            "file_id": "baa59b42-6800-4bd1-a937-558c2df1507e"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
+            "file_id": "5fc931fb-b064-4d15-b37a-1caa00f9178f"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
+            "file_id": "4c719067-d60f-49b5-a745-d407bc8abefb"
+        },
+        {
+            "label": "Image",
+            "data_type": "Image",
+            "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
+            "file_id": "197ecce7-d038-47bd-b7ba-f357084fc4b6"
+        },
+        {
+            "label": "OCR",
+            "data_type": "Plain text",
+            "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
+            "file_id": "610e132a-dde5-44a6-94eb-abda239e0300"
+        },
+        {
+            "label": "Annotation",
+            "data_type": "Annotated text",
+            "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
+            "file_id": "d53c4d03-48a5-438d-8d82-0567164758d5"
+        }
+    ],
+    "files": [
+        {
+            "id": "34eda65f-1276-4095-bde9-9325e80ad2ee",
+            "filename": "34eda65f-1276-4095-bde9-9325e80ad2ee.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "silver-arrows-p1.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "169fc0e8-e2c6-48d9-8899-36995d12db55",
+            "filename": "169fc0e8-e2c6-48d9-8899-36995d12db55.txt",
+            "mime_type": "text/plain",
+            "original_filename": "silver-arrows-p1.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "e13417a4-524c-4a9d-9b22-ba11f4f4dd66",
+            "filename": "e13417a4-524c-4a9d-9b22-ba11f4f4dd66.json",
+            "mime_type": "application/json",
+            "original_filename": "silver-arrows-p1.json",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "28605dba-569d-4aee-90ae-1102c29bc323",
+            "filename": "28605dba-569d-4aee-90ae-1102c29bc323.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "silver-arrows-p2.jpg",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "6d97e50c-7561-48d2-98ab-699017da82a3",
+            "filename": "6d97e50c-7561-48d2-98ab-699017da82a3.txt",
+            "mime_type": "text/plain",
+            "original_filename": "silver-arrows-p2.txt",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "9374f3fe-e961-4e27-8333-40b87fb9b1bc",
+            "filename": "9374f3fe-e961-4e27-8333-40b87fb9b1bc.json",
+            "mime_type": "application/json",
+            "original_filename": "silver-arrows-p2.json",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "32d440f0-3884-479b-850c-ac3e5dcc015e",
+            "filename": "32d440f0-3884-479b-850c-ac3e5dcc015e.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "blue-triangle.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "0288e6c2-98a3-4b85-ac5d-8db091df65ce",
+            "filename": "0288e6c2-98a3-4b85-ac5d-8db091df65ce.txt",
+            "mime_type": "text/plain",
+            "original_filename": "blue-triangle.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "ec7cf993-74d2-40b9-b070-c7774829bd48",
+            "filename": "ec7cf993-74d2-40b9-b070-c7774829bd48.json",
+            "mime_type": "application/json",
+            "original_filename": "blue-triangle.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "1297e7f5-abd5-4467-9c2e-8e56ae552c92",
+            "filename": "1297e7f5-abd5-4467-9c2e-8e56ae552c92.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "green-square.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "2982efc1-d654-489e-8d1a-6da01b1c56db",
+            "filename": "2982efc1-d654-489e-8d1a-6da01b1c56db.txt",
+            "mime_type": "text/plain",
+            "original_filename": "green-square.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "0b6b500c-4e3d-481e-8c6e-880ac244ec81",
+            "filename": "0b6b500c-4e3d-481e-8c6e-880ac244ec81.json",
+            "mime_type": "application/json",
+            "original_filename": "green-square.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "cceaf9cf-0569-4f1d-9ab6-28cd55f8dd63",
+            "filename": "cceaf9cf-0569-4f1d-9ab6-28cd55f8dd63.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "pink-star.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "cf8e0c53-92d8-4ba4-9894-f60ce5b3a8dd",
+            "filename": "cf8e0c53-92d8-4ba4-9894-f60ce5b3a8dd.txt",
+            "mime_type": "text/plain",
+            "original_filename": "pink-star.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "12bce200-7a7f-42a1-9adf-05ad4282bc69",
+            "filename": "12bce200-7a7f-42a1-9adf-05ad4282bc69.json",
+            "mime_type": "application/json",
+            "original_filename": "pink-star.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "9997f5a2-2bc1-4dee-aea7-890f9250f5f9",
+            "filename": "9997f5a2-2bc1-4dee-aea7-890f9250f5f9.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "purple-oval.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "f17c9a1e-3fd5-46c3-9790-c35d1baf5d65",
+            "filename": "f17c9a1e-3fd5-46c3-9790-c35d1baf5d65.txt",
+            "mime_type": "text/plain",
+            "original_filename": "purple-oval.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "dc728dd6-2242-4c8b-b89f-00a828dc195e",
+            "filename": "dc728dd6-2242-4c8b-b89f-00a828dc195e.json",
+            "mime_type": "application/json",
+            "original_filename": "purple-oval.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "0332afcc-3ef5-4945-8bf8-3474e29cef09",
+            "filename": "0332afcc-3ef5-4945-8bf8-3474e29cef09.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "red-circle.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "8b3dfb6c-c351-4b27-bc50-01908fad34cc",
+            "filename": "8b3dfb6c-c351-4b27-bc50-01908fad34cc.txt",
+            "mime_type": "text/plain",
+            "original_filename": "red-circle.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "b268afd8-f83f-415f-becb-d743593809a6",
+            "filename": "b268afd8-f83f-415f-becb-d743593809a6.json",
+            "mime_type": "application/json",
+            "original_filename": "red-circle.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "baa59b42-6800-4bd1-a937-558c2df1507e",
+            "filename": "baa59b42-6800-4bd1-a937-558c2df1507e.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "turquoise-diamond.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "5fc931fb-b064-4d15-b37a-1caa00f9178f",
+            "filename": "5fc931fb-b064-4d15-b37a-1caa00f9178f.txt",
+            "mime_type": "text/plain",
+            "original_filename": "turquoise-diamond.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "4c719067-d60f-49b5-a745-d407bc8abefb",
+            "filename": "4c719067-d60f-49b5-a745-d407bc8abefb.json",
+            "mime_type": "application/json",
+            "original_filename": "turquoise-diamond.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        },
+        {
+            "id": "197ecce7-d038-47bd-b7ba-f357084fc4b6",
+            "filename": "197ecce7-d038-47bd-b7ba-f357084fc4b6.jpg",
+            "mime_type": "image/jpeg",
+            "original_filename": "yellow-hexagon.jpg",
+            "hash": "6372fc80e5a43d25efc0890e338753f29d069fe5aae834a729ac5dc519a425c0"
+        },
+        {
+            "id": "610e132a-dde5-44a6-94eb-abda239e0300",
+            "filename": "610e132a-dde5-44a6-94eb-abda239e0300.txt",
+            "mime_type": "text/plain",
+            "original_filename": "yellow-hexagon.txt",
+            "hash": "a5fd32b68adb8f9a07583c4a30afb0a5671265cd1f61a0831378f6f139c8c1bf"
+        },
+        {
+            "id": "d53c4d03-48a5-438d-8d82-0567164758d5",
+            "filename": "d53c4d03-48a5-438d-8d82-0567164758d5.json",
+            "mime_type": "application/json",
+            "original_filename": "yellow-hexagon.json",
+            "hash": "6c471589b8dd5084b93d4115d0d9a944b94ee36083b5e8ef5f9cb3f9b5d12a2f"
+        }
+    ],
+    "events": []
+}

@@ -1,10 +1,19 @@
 {
     "projects": [
         {
+            "id": "fde46c75-8732-4e5e-83cd-07e405b5f64a",
+            "name": "Example project",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        }
+    ],
+    "jobs": [
+        {
             "id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "project_id": "fde46c75-8732-4e5e-83cd-07e405b5f64a",
             "title": "Colors and shapes",
             "subtitle": "Alex vs Jordan",
-            "description": "An example project with letters about colors and shapes",
+            "description": "An example job with letters about colors and shapes",
             "max_history_length": 3,
             "is_data_complete": true,
             "created": "2024-01-23T12:00:00.000001",
@@ -14,7 +23,7 @@
     "tasks": [
         {
             "id": "e7f2419b-2e0d-425b-a8d1-983287a90992",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Blue triangle (1)",
             "status": "New",
             "order": 1,
@@ -24,7 +33,7 @@
         },
         {
             "id": "cd1384fd-0f33-49d2-948d-4e41166c09ad",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Green square (2)",
             "status": "New",
             "order": 2,
@@ -34,7 +43,7 @@
         },
         {
             "id": "c7b0afbb-f1c1-4df9-92c5-a7ebcc286415",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Pink star (3)",
             "status": "New",
             "order": 3,
@@ -44,7 +53,7 @@
         },
         {
             "id": "f3a70518-e461-49c9-a2ed-06b9688aabda",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Purple oval (4)",
             "status": "New",
             "order": 4,
@@ -54,7 +63,7 @@
         },
         {
             "id": "48cb7b0d-b6e0-4596-8b2e-df5a3967e4d9",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Red circle (5)",
             "status": "New",
             "order": 5,
@@ -64,7 +73,7 @@
         },
         {
             "id": "ab39f95e-abf9-4e84-87f5-8ed2bba6ffd2",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Turquoise diamond (6)",
             "status": "New",
             "order": 6,
@@ -74,7 +83,7 @@
         },
         {
             "id": "04d5c6f6-38ae-4cae-9dcf-a473ac76508f",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Yellow hexagon (7)",
             "status": "New",
             "order": 7,
@@ -84,7 +93,7 @@
         },
         {
             "id": "4032eae6-a498-41d2-953a-6cc6012737cc",
-            "project_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
             "name": "Silver arrow (8)",
             "status": "New",
             "order": 8,

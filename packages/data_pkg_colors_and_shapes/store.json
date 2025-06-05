@@ -160,148 +160,148 @@
             "modified": "2024-01-23T12:00:00.000001"
         }
     ],
-    "data": [
+    "data_views": [
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "faf7f088-1348-4597-9c7c-979425622fa4",
             "file_id": "d22eef1c-1a8f-4748-99f0-76fb2f2fdc81"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "faf7f088-1348-4597-9c7c-979425622fa4",
             "file_id": "293e0f89-5592-41e8-9f6b-973882001244"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "faf7f088-1348-4597-9c7c-979425622fa4",
             "file_id": "7fed1cd2-08de-494f-ba2c-1242c4250421"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "0e0dce10-257d-4db6-9e7a-b036ef047496",
             "file_id": "95de34ec-199f-494b-9ed5-48dfa3252b53"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "0e0dce10-257d-4db6-9e7a-b036ef047496",
             "file_id": "a6bf147c-a609-4c4f-82a5-fc3a9c16e022"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "0e0dce10-257d-4db6-9e7a-b036ef047496",
             "file_id": "231d917d-24b8-4a8d-a4f5-c34c7cec947f"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "982d77d8-8f67-4421-98c9-9349b92494b2",
             "file_id": "15375542-f8b9-4ab5-b498-a83fce5b61d6"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "982d77d8-8f67-4421-98c9-9349b92494b2",
             "file_id": "d2f228d9-1b29-4c6f-9b8d-2ad3449cf6d1"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "982d77d8-8f67-4421-98c9-9349b92494b2",
             "file_id": "69abffa7-174a-4168-ae86-256aec7d8d2d"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "187a2b83-fda2-4ba9-9979-dcb0f0bc7145",
             "file_id": "7b591909-d57e-4d05-9f58-84278d6e074c"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "187a2b83-fda2-4ba9-9979-dcb0f0bc7145",
             "file_id": "dbde07b6-6cdd-4b5c-a006-ee205f0718ab"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "187a2b83-fda2-4ba9-9979-dcb0f0bc7145",
             "file_id": "85448f18-e2b9-40dd-b35a-a310246afacd"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "99e3cc01-8a52-4083-952a-04eda337ef27",
             "file_id": "e022d048-23db-4de0-a368-8134aaeda68e"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "99e3cc01-8a52-4083-952a-04eda337ef27",
             "file_id": "6e04b68d-65dc-49c2-ae84-91919ea59ccd"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "99e3cc01-8a52-4083-952a-04eda337ef27",
             "file_id": "3a8ca415-9336-475b-9326-3455c6b1a9f8"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "ec4bd138-14a4-4d45-9c6b-f4ab77f582e4",
             "file_id": "e30efa6c-7bbc-475d-87b6-01557d788fd0"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "ec4bd138-14a4-4d45-9c6b-f4ab77f582e4",
             "file_id": "0275e682-7c4d-43cc-9c0a-4e79dfa95f99"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "ec4bd138-14a4-4d45-9c6b-f4ab77f582e4",
             "file_id": "f3429447-349b-40e0-a353-31a983775eb2"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "e912e9a4-1c84-4087-b1f8-85a800f00ba3",
             "file_id": "480cc6a1-3cd6-4f2f-ae93-45f802ae4780"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "e912e9a4-1c84-4087-b1f8-85a800f00ba3",
             "file_id": "03006f9a-bcaf-43cd-a45f-6594908e8135"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "e912e9a4-1c84-4087-b1f8-85a800f00ba3",
             "file_id": "85be9c1d-2254-4c59-98f4-735ef9368e63"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "b5e73e85-5203-437c-80d2-ff1812350125",
             "file_id": "a15974e3-e764-4af4-88c7-834e3040c4d7"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "b5e73e85-5203-437c-80d2-ff1812350125",
             "file_id": "eb1f2215-85a6-4d73-b8ea-03b13b66f038"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "b5e73e85-5203-437c-80d2-ff1812350125",
             "file_id": "21a146c0-23ad-4aa1-aec9-2bb83198b175"
         }

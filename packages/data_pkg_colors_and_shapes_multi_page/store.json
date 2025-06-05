@@ -143,166 +143,166 @@
             "modified": "2025-04-25T12:00:00.000001"
         }
     ],
-    "data": [
+    "data_views": [
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
             "file_id": "34eda65f-1276-4095-bde9-9325e80ad2ee"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
             "file_id": "169fc0e8-e2c6-48d9-8899-36995d12db55"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "943d6fb2-fcd3-4b57-b0c9-b268a558666c",
             "file_id": "e13417a4-524c-4a9d-9b22-ba11f4f4dd66"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
             "file_id": "28605dba-569d-4aee-90ae-1102c29bc323"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
             "file_id": "6d97e50c-7561-48d2-98ab-699017da82a3"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "62c9c9eb-0163-4602-8b8c-6a541c506e49",
             "file_id": "9374f3fe-e961-4e27-8333-40b87fb9b1bc"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
             "file_id": "32d440f0-3884-479b-850c-ac3e5dcc015e"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
             "file_id": "0288e6c2-98a3-4b85-ac5d-8db091df65ce"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "2498d4c9-9900-41a4-b050-d244885c3dab",
             "file_id": "ec7cf993-74d2-40b9-b070-c7774829bd48"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
             "file_id": "1297e7f5-abd5-4467-9c2e-8e56ae552c92"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
             "file_id": "2982efc1-d654-489e-8d1a-6da01b1c56db"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "db27effc-0bda-4add-95bf-95c6322e596a",
             "file_id": "0b6b500c-4e3d-481e-8c6e-880ac244ec81"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
             "file_id": "cceaf9cf-0569-4f1d-9ab6-28cd55f8dd63"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
             "file_id": "cf8e0c53-92d8-4ba4-9894-f60ce5b3a8dd"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "60c81e54-dff7-4237-b829-fc242a02b033",
             "file_id": "12bce200-7a7f-42a1-9adf-05ad4282bc69"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
             "file_id": "9997f5a2-2bc1-4dee-aea7-890f9250f5f9"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
             "file_id": "f17c9a1e-3fd5-46c3-9790-c35d1baf5d65"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "23c64048-c4b0-4ea8-a311-1e7e5198694e",
             "file_id": "dc728dd6-2242-4c8b-b89f-00a828dc195e"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
             "file_id": "0332afcc-3ef5-4945-8bf8-3474e29cef09"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
             "file_id": "8b3dfb6c-c351-4b27-bc50-01908fad34cc"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "9cf4306c-6ad5-453f-a798-1d00f3497a4c",
             "file_id": "b268afd8-f83f-415f-becb-d743593809a6"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
             "file_id": "baa59b42-6800-4bd1-a937-558c2df1507e"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
             "file_id": "5fc931fb-b064-4d15-b37a-1caa00f9178f"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "7128c0d1-b2fc-4423-b03c-f29d09ba0b6f",
             "file_id": "4c719067-d60f-49b5-a745-d407bc8abefb"
         },
         {
             "label": "Image",
-            "data_type": "Image",
+            "mode": "Image",
             "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
             "file_id": "197ecce7-d038-47bd-b7ba-f357084fc4b6"
         },
         {
             "label": "OCR",
-            "data_type": "Plain text",
+            "mode": "Plain text",
             "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
             "file_id": "610e132a-dde5-44a6-94eb-abda239e0300"
         },
         {
             "label": "Annotation",
-            "data_type": "Annotated text",
+            "mode": "Annotated text",
             "item_id": "db058dca-aad7-47f8-9bc9-432cab176a63",
             "file_id": "d53c4d03-48a5-438d-8d82-0567164758d5"
         }

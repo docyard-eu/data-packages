@@ -1,10 +1,19 @@
 {
     "projects": [
         {
+            "id": "fde46c75-8732-4e5e-83cd-07e405b5f64a",
+            "name": "Example project",
+            "created": "2025-04-25T12:00:00.000001",
+            "modified": "2025-04-25T12:00:00.000001"
+        }
+    ],
+    "jobs": [
+        {
             "id": "3cbb9067-29b7-42a7-aced-293cefafd5c4",
+            "project_id": "fde46c75-8732-4e5e-83cd-07e405b5f64a",
             "title": "Colors and shapes multi-page",
             "subtitle": "Alex vs Jordan",
-            "description": "An example project with letters about colors and shapes",
+            "description": "An example job with letters about colors and shapes",
             "max_history_length": 3,
             "is_data_complete": true,
             "created": "2025-04-25T12:00:00.000001",
@@ -14,7 +23,7 @@
     "tasks": [
         {
             "id": "1b5e2cab-3375-4a48-9a05-e195d7996c6a",
-            "project_id": "3cbb9067-29b7-42a7-aced-293cefafd5c4",
+            "job_id": "3cbb9067-29b7-42a7-aced-293cefafd5c4",
             "name": "Colors and shapes",
             "status": "New",
             "order": 1,

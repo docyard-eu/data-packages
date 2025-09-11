@@ -108,56 +108,64 @@
             "task_id": "e7f2419b-2e0d-425b-a8d1-983287a90992",
             "name": "Blue triangle (1)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "0e0dce10-257d-4db6-9e7a-b036ef047496",
             "task_id": "cd1384fd-0f33-49d2-948d-4e41166c09ad",
             "name": "Green square (2)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "982d77d8-8f67-4421-98c9-9349b92494b2",
             "task_id": "c7b0afbb-f1c1-4df9-92c5-a7ebcc286415",
             "name": "Pink star (3)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "187a2b83-fda2-4ba9-9979-dcb0f0bc7145",
             "task_id": "f3a70518-e461-49c9-a2ed-06b9688aabda",
             "name": "Purple oval (4)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "99e3cc01-8a52-4083-952a-04eda337ef27",
             "task_id": "48cb7b0d-b6e0-4596-8b2e-df5a3967e4d9",
             "name": "Red circle (5)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "ec4bd138-14a4-4d45-9c6b-f4ab77f582e4",
             "task_id": "ab39f95e-abf9-4e84-87f5-8ed2bba6ffd2",
             "name": "Turquoise diamond (6)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "e912e9a4-1c84-4087-b1f8-85a800f00ba3",
             "task_id": "04d5c6f6-38ae-4cae-9dcf-a473ac76508f",
             "name": "Yellow hexagon (7)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         },
         {
             "id": "b5e73e85-5203-437c-80d2-ff1812350125",
             "task_id": "4032eae6-a498-41d2-953a-6cc6012737cc",
             "name": "Silver arrow (8)",
             "created": "2024-01-23T12:00:00.000001",
-            "modified": "2024-01-23T12:00:00.000001"
+            "modified": "2024-01-23T12:00:00.000001",
+            "index": 0
         }
     ],
     "data_views": [

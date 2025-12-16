@@ -20,6 +20,31 @@
             "modified": "2024-01-23T12:00:00.000001"
         }
     ],
+    "forms": [
+        {
+            "name": "Color and shapes form",
+            "schema_definition": {
+                "fields": [
+                    {
+                        "name": "color",
+                        "field_type": "text",
+                        "label": "Color",
+                        "required": true
+                    },
+                    {
+                        "name": "shape",
+                        "field_type": "text",
+                        "label": "Shape",
+                        "required": true
+                    }
+                ]
+            },
+            "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+            "job_id": "6b6e4640-b603-42ab-a51a-a920224fb716",
+            "created": "2024-01-23T12:00:00.000001",
+            "modified": "2024-01-23T12:00:00.000001"
+        }
+    ],
     "tasks": [
         {
             "id": "e7f2419b-2e0d-425b-a8d1-983287a90992",
@@ -109,7 +134,8 @@
             "name": "Blue triangle (1)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "0e0dce10-257d-4db6-9e7a-b036ef047496",
@@ -117,7 +143,8 @@
             "name": "Green square (2)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "982d77d8-8f67-4421-98c9-9349b92494b2",
@@ -125,7 +152,8 @@
             "name": "Pink star (3)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "187a2b83-fda2-4ba9-9979-dcb0f0bc7145",
@@ -133,7 +161,8 @@
             "name": "Purple oval (4)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "99e3cc01-8a52-4083-952a-04eda337ef27",
@@ -141,7 +170,8 @@
             "name": "Red circle (5)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "ec4bd138-14a4-4d45-9c6b-f4ab77f582e4",
@@ -149,7 +179,8 @@
             "name": "Turquoise diamond (6)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "e912e9a4-1c84-4087-b1f8-85a800f00ba3",
@@ -157,7 +188,8 @@
             "name": "Yellow hexagon (7)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         },
         {
             "id": "b5e73e85-5203-437c-80d2-ff1812350125",
@@ -165,7 +197,8 @@
             "name": "Silver arrow (8)",
             "created": "2024-01-23T12:00:00.000001",
             "modified": "2024-01-23T12:00:00.000001",
-            "index": 1
+            "index": 1,
+            "form_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
         }
     ],
     "data_views": [
